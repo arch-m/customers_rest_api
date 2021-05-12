@@ -1,7 +1,7 @@
 ﻿# customers_rest_api
 
 ### Backlog
-Formulario de Contacto (Landing->Dashboard)
+* Formulario de Contacto (Landing->Dashboard)
 
 ### To do
 * Landing Page Lineal (Frontend App) 
